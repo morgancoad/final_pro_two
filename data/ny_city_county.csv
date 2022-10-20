@@ -43,7 +43,7 @@ Allegany,Swain
 Allegany,Wellsville
 Allegany,West Clarksville
 Allegany,Whitesville
-Bronx,New York
+Bronx,Bronx
 Broome,Binghamton
 Broome,Castle Creek
 Broome,Chenango Forks
@@ -421,7 +421,7 @@ Fulton,Johnstown
 Fulton,Mayfield
 Fulton,Northville
 Fulton,Stratford
-,Alexander
+Fulton,Alexander
 Genesee,Basom
 Genesee,Batavia
 Genesee,Bergen
@@ -704,7 +704,7 @@ Nassau,Westbury
 Nassau,Williston Park
 Nassau,Woodbury
 Nassau,Woodmere
-New York,NewYork
+New York,New York
 Niagara,Appleton
 Niagara,Barker
 Niagara,Burt
