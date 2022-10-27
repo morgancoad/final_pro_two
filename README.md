@@ -4,8 +4,8 @@ There are plenty of benefits for state and federal governments to provide the op
 
 ## Table of Contents 
 1. Data
-2. Null/Alternate Hypothesis
-3. Exploratory Data Analysis
+2. Methodology and Null/Alternate Hypothesis
+3. Average Crime Rate
 4. Results of Hypothesis Test
 5. Continued Analysis
 
@@ -23,4 +23,30 @@ The National Transit Database collects and compiles reports from most public tra
 
 The New York State Department of Labor provides resident population of New York State and counties based on census counts. Data available from 1970-2021. This data can be found at the following hyperlink, [Population](https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k)
 
-# Null/Alternate Hypothesis
+# Methodology and Null/Alternate Hypothesis
+
+Null Hypothesis: Average crime rate in counties with public transportationare equal to or less than the crime rate in counties without public transportataion.
+
+Alternate Hypothesis: Average crime rate in counties with public trans are higher than the crime rate in counties without public transportation.
+
+<p align="center">
+<img src="images\methodology.png" width = 600>
+</p>
+
+# Average Crime Rate 
+
+
+
+
+
+
+
+
+
+Initialy I maintained an alpha of .05 this eventually was lowered to .025 because I ran multiple tests.
+
+Either way I failed to jeject the null hypothesis. As you can see below the average crime rates per year from both areas with public transportation and areas without public transportation are close in proximity, indicating that the differnece in crime rate isnt significant enough to reject the null hypothesis. The p-value calculated for the test was.63 
+
+<p align="center">
+<img src="images\hypothesis_results.png" width = 600>
+</p>
